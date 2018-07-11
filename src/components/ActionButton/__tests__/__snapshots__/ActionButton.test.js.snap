@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ActionButton/> component should match to snapshot 1`] = `
+<button
+  className="sc-bdVaJa hOICsF"
+  height="70px"
+  onClick={[Function]}
+  onMouseDown={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  width="70px"
+>
+  <i
+    className="fa fa-eye sc-bwzfXH cpZBPd"
+  />
+</button>
+`;

@@ -1,0 +1,25 @@
+
+
+.photos-list-enter {
+    opacity: 0.01;
+    will-change: opacity;
+}
+
+.photos-list-enter.photos-list-enter-active {
+    opacity: 1;
+    transition: all 500ms ease-in;
+    will-change: opacity;
+}
+
+.photos-list-exit {
+    opacity: 1;
+    will-change: opacity;
+}
+
+.photos-list-exit.photos-list-exit-active {
+    opacity: 0.01;
+    transition: all 500ms ease-in;
+    will-change: opacity;
+
+}
+

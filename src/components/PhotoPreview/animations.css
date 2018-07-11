@@ -1,0 +1,23 @@
+
+
+.photo-preview-enter {
+    opacity: 0.01;
+    will-change: opacity;
+}
+
+.photo-preview-enter.photo-preview-enter-active {
+    opacity: 1;
+    transition: all 500ms ease-in;
+    will-change: opacity;
+}
+
+.photo-preview-exit {
+    opacity: 1;
+    will-change: opacity;
+}
+
+.photo-preview-exit.photo-preview-exit-active {
+    opacity: 0.01;
+    transition: all 500ms ease-in;
+    will-change: opacity;
+}

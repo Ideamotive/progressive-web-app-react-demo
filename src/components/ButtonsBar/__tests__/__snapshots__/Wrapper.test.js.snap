@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Wrapper/> component should match to snapshot 1`] = `
+<div
+  className="sc-bdVaJa ksoPgM"
+>
+  test
+</div>
+`;

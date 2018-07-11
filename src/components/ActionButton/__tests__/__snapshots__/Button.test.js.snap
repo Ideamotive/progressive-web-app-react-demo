@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button/> component should match to snapshot 1`] = `
+<button
+  className="sc-bdVaJa fPNWws"
+/>
+`;
+
+exports[`<Button/> component should modification match to snapshot 1`] = `
+Array [
+  <button
+    className="sc-bdVaJa eNQXUi"
+/>,
+  <button
+    className="sc-bdVaJa fnrtTC"
+/>,
+  <button
+    className="sc-bdVaJa hlpkNP"
+/>,
+  <button
+    className="sc-bdVaJa hnxRwy"
+/>,
+  <button
+    className="sc-bdVaJa Iodrq"
+/>,
+  <button
+    className="sc-bdVaJa edVvAC"
+/>,
+]
+`;

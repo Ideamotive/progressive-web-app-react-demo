@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ButtonBar/> component should match to snapshot 1`] = `
+<div
+  className="sc-bdVaJa ciCIem"
+>
+  <button>
+    Click
+  </button>
+</div>
+`;

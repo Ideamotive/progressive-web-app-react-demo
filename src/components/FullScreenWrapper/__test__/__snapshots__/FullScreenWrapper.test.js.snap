@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FullScreenWrapper/> component should match to snapshot 1`] = `
+<div
+  className="sc-bdVaJa dxncCL"
+>
+  <div />
+  test
+</div>
+`;
