@@ -34,14 +34,14 @@ InfoBox.propTypes = {
     onBoxClose: PropTypes.func.isRequired,
     mainText: PropTypes.string.isRequired,
     imgUrl: PropTypes.string.isRequired,
-    created_at: PropTypes.string.isRequired
+    created_at: PropTypes.oneOfType([PropTypes.string, PropTypes.instanceOf(Date)])
 };
 
 InfoBox.defaultProps = {
     mainText: '',
-    created_at: new Date(),
-    onBoxClose: PropTypes.func.isRequired,
-    url: PropTypes.string.isRequired,
+    created_at: new Date('01-01-20018'),
+    onBoxClose: () => {},
+    imgUrl: '',
 };
 
 

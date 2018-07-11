@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PhotoPosition/> component should match to snapshot 1`] = `
+<div
+  className="sc-bdVaJa jysxDn"
+  onClick={[Function]}
+  transform="translate(-30px, -30px) scale(0.4)"
+/>
+`;

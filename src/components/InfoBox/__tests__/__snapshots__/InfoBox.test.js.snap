@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InfoBox/> component should match to snapshot 1`] = `
+<div
+  className="sc-bdVaJa dxyeMJ"
+>
+  <div
+    className="sc-bwzfXH gtIphb"
+  >
+    <div
+      className="fa fa-times-circle fa-2x sc-ifAKCX icZIwo"
+      onClick={[Function]}
+    />
+    <div
+      className="sc-htpNat fKOxhJ"
+    />
+    <div
+      className="sc-EHOje gVvQOi"
+    >
+      Jan 1, 20018 12:00 AM
+    </div>
+    <div
+      className="sc-bxivhb cTZUEo"
+    >
+      
+    </div>
+  </div>
+</div>
+`;
