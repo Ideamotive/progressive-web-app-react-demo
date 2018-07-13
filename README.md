@@ -1,5 +1,4 @@
 # Ideamotive PWA demo
-#ideamotive/progressive-web-app-react-demo
 # Demo
 ## App
 TODO: add link to app demo
