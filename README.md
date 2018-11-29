@@ -99,3 +99,6 @@ $ yarn storybook
 
 ## Tests
 TODO: Finish tests
+
+### Contact
+Created by [Ideamotive's](https://ideamotive.co/services/react-development/) developers.
